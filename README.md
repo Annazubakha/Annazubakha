@@ -9,6 +9,16 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
+<h1 align="center">
+  Hi, everyone
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+----
+
+### :woman_technologist: About Me :
+I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently in Spain.
+
 <!--
 **Annazubakha/Annazubakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
