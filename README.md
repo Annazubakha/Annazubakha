@@ -20,7 +20,7 @@ I am a Junior Frontend Developer from Ukraine, currently in Spain.
 
 - :zap: In my free time i like to read classic literature and discover IT's world.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](korepovaanna@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="korepovaanna@gmail.com"> )
 
 ----
 
