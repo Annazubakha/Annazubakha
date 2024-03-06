@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 I am a Junior Frontend Developer from Ukraine, currently in Spain.
-- :woman: I’m 24.
+- :woman: I have knowledge of HTML, CSS, JS, React, studying Node.js.
 
 - :zap: In my free time i like to read classic literature and discover IT's world.
 
