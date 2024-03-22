@@ -20,7 +20,9 @@ I am a Junior Frontend Developer from Ukraine, currently in Spain.
 
 - :zap: In my free time i like to read classic literature and discover IT's world.
 
-- :mailbox: How to reach me: korepovaanna@gmail.com 
+- :mailbox: How to reach me: korepovaanna@gmail.com
+
+- :computer: Visit my web-site: https://annazubakha.github.io/website-Anna-Zubakha/
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
