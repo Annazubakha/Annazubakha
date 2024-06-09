@@ -14,13 +14,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
-I am a Junior Frontend Developer from Ukraine, currently in Spain.
-- :woman: I have knowledge of HTML, CSS, JS, React, studying Node.js.
-
-- :zap: In my free time i like to read classic literature and discover IT's world.
-
-- :mailbox: How to reach me: korepovaanna@gmail.com
+### :woman_technologist: About Me : Junior Frontend Developer from Ukraine, currently in Spain.
+:mailbox: How to reach me: korepovaanna@gmail.com
 
 ----
 
