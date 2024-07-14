@@ -8,15 +8,16 @@
   <a href="https://wa.me/380982417614">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
+   <a href="mailto:korepovaanna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
 <h1 align="center">
   Hi, everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me : Junior Frontend Developer from Ukraine, currently in Spain.
-:mailbox: How to reach me: korepovaanna@gmail.com
-
+### :woman_technologist: Junior Frontend Developer from Ukraine, currently in Spain.
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -31,6 +32,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
 <!--             <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS"  alt="SASS" width="40" height="40"/> -->
   </div>
