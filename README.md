@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: I am a Junior Frontend Developer from Ukraine, currently residing in Spain.
+### :woman_technologist: I am a Junior Frontend Developer.
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
