@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/anna-zubakha">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-     <a href="mailto:korepovaanna@gmail.com">
+     <a href="mailto:annazubakha13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://wa.me/380982417614">
